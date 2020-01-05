@@ -9,10 +9,7 @@
 		"pull-stream": "~2.26.0",
 		"stream-to-pull-stream": "~1.6.1",
 		"pull-pushable": "~1.1.4",
-		"pull-unwind": "~0.0.3",
 		"pull-split": "~0.1.2",
-		"pull-flow": "~1.0.0",
-		"pull-substream": "~0.1.0",
 		"pull-defer": "~0.1.1",
 
 		"hyperquest": "~1.2.0",

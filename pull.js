@@ -2,8 +2,6 @@ var pull = require('pull-stream')
 
 pull.from = require('stream-to-pull-stream')
 pull.pushable = require('pull-pushable')
-pull.substream = require('pull-substream')
-pull.flow = require('pull-flow')
 pull.split = require('pull-split')
 pull.defer = require('pull-defer')
 pull.trumpet = (function() {
